@@ -1,0 +1,7 @@
+**Structural Commitments & Core Mechanisms:**
+
+The artifact reveals a policy analysis platform built on structural independence through voluntary-only funding and methodology applied identically regardless of political source. The core mechanism is an immutable diagnostic timeline that forces consistent analytical standards — not flexible interpretation based on political preference, but fixed methodology that treats all legislation identically. This creates systematic resistance to capture by making the diagnostic process mechanically consistent rather than politically responsive.
+
+**Design Implications:**
+
+The primary structural tension is credibility-building versus public service — institutional actors provide legitimacy but implementation actors (practitioners who actually use policy) remain underserved. The platform resolves this through sequential service: establish credibility with institutions first, then extend to implementation actors. However, the capture risk remains medium-high because credibility dependency on institutional actors creates pressure to maintain their approval. The strongest alignment opportunity is permanent policy accountability infrastructure — where consistent diagnostic methodology serves the public good not as side effect but as direct business function, making reliability rather than flexibility the core value proposition.
