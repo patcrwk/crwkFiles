@@ -1,0 +1,7 @@
+**Structural Market Gap: Formation Quality Assessment**
+
+The civic intelligence market operates on a false premise — that information access equals civic capacity. Existing players (PolitiFact, GovTrack, Ballotpedia) address symptoms rather than structural conditions. They verify claims after circulation, aggregate data without interpretation, or track voting records without assessing policy formation quality. The market has missed the core diagnostic question: not "what does this policy claim?" but "is this policy designed to work?" This creates what the report identifies as the "Sarah problem" — informed non-experts who need formation assessment, not just information access.
+
+**Design Implication: Infrastructure vs. Project**
+
+The claims-vs-reality analysis reveals a critical formation challenge: The Open Record currently operates as a project while claiming institutional permanence. Without the underlying infrastructure for permanence, editorial independence, and institutional accountability, these claims create a credibility gap. The formation architecture must encode permanence and independence structurally — through governance design, funding mechanisms, and stewardship infrastructure — before making institutional claims. The market opportunity exists precisely because no player has solved this structural design problem.
